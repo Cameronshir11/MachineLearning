@@ -7,4 +7,4 @@
 
 *[NumPY](https://numpy.org/)
 
-[Matices Review](https://cs229.stanford.edu/section/cs229-linalg.pdf)
+*[Matices Review](https://cs229.stanford.edu/section/cs229-linalg.pdf)
